@@ -1,7 +1,5 @@
 # GPS Run Tracker
-This app traks your run and save into room database.
-user can sort the runs by date, running time, Distance, Average Speed
-We can delete an run by swapping left or right.
+This app tracks your run and saves it into the room database. user can sort the runs by date, running time, Distance, Average Speed We can delete a run by swapping left or right.
 
 
 
