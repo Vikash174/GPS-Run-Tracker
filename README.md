@@ -44,7 +44,7 @@ https://play.google.com/store/apps/details?id=bawv.app.runtracker
 
 * [Glide](https://github.com/bumptech/glide) - Image Loading
 
-* [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android)- Dependency Injectiom
+* [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android)- Dependency Injection
 
 
 
