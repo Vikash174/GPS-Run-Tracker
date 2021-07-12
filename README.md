@@ -21,7 +21,24 @@ TOP FEATURES\
 
 
 ## Screenshots
+<table>
+  <tr>
+     <td>Breaking news fragment</td>
+     <td> newsVieew fragment</td>
+     <td>save news fragment</td>
+     <td>Search news fragment</td>
+    
+  </tr>
+  <tr>
+   <td><img src="https://play-lh.googleusercontent.com/G5JhoIdgMrmwcwl-lQgz1uRXJ_DE3bsQtohzSgka6YSI4WFxAsXCzINnRpUoLJAWlKI=w1920-h937-rw" width=270 height=480></td>
+  <td><img src="https://play-lh.googleusercontent.com/mtQP7IAHLGi11nQvgxI8ieID5ab8v8KfG_moAPj4i8YEOZwOnuWxOiKclLeR_fj2z3E=w1920-h937-rw" width=270 height=480></td>
+   <td><img src="https://play-lh.googleusercontent.com/GIpzXOcyrGSgJekwuqvHXNkyfI2RPAD0gLuLGN3UuxqQRNpYdtNIO3vhk2AoFnv3jCM=w720-h310-rw" width=270 height=480></td>
+   <td><img src="https://play-lh.googleusercontent.com/E5JyD0nHWjeWos9DDST_-kUwZdYr8ZPlm4RBhJs5KjH7hL0uurfP2yQihK1u8lPrvA=w720-h310-rw" width=270 height=480></td>
+  
+  
+  
+  </tr>
+ </table>
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
   
