@@ -25,10 +25,10 @@ OVERVIEW\
 ## Screenshots
 <table>
   <tr>
-     <td>Breaking news fragment</td>
+<!--      <td>Breaking news fragment</td>
      <td> newsVieew fragment</td>
      <td>save news fragment</td>
-     <td>Search news fragment</td>
+     <td>Search news fragment</td> -->
     
   </tr>
   <tr>
