@@ -1,6 +1,19 @@
 # GPS Run Tracker
 This app tracks your run and saves it into the room database. user can sort the runs by date, running time, Distance, Average Speed We can delete a run by swapping left or right.
 
+## About the App architecture
+
+-> MVVM Architecture
+-> Navigation Components
+-> Room Database with Coroutines
+-> Dependency Injection with Dagger-Hilt
+
+This app has Single Activity Architecture.Which means it has only on activity which contains five fragments :-
+-> SetupFragment
+-> RunFragment
+-> StatisticsFragment
+-> SettingFragment
+-> TrackFragment
 
 
 ## Getting Started
@@ -37,6 +50,8 @@ https://play.google.com/store/apps/details?id=bawv.app.runtracker
 * [MVVM Architecture] 
 
 * [Room DB](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-4-saving-user-data/lesson-10-storing-data-with-room/10-1-c-room-livedata-viewmodel/10-1-c-room-livedata-viewmodel.html) - To save news article
+
+* [Coroutines]
 
 * [Background Location Service]
 
