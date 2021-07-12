@@ -1,68 +1,27 @@
+
+![Logo](https://play-lh.googleusercontent.com/MkkjblV7HxjqY3-xlW-PE8avdoQmFqc9fzqn2ZP9_rmii4SC0d79mMNswHeQ1QPQ6rU=s180-rw)
+
+    
 # GPS Run Tracker
-This app tracks your run and saves it into the room database. user can sort the runs by date, running time, Distance, Average Speed We can delete a run by swapping left or right.
 
-## About the App architecture
+OVERVIEW\
+• Track Workouts - Go for a run, walk, jog, bike, or any activity really. With GPS, you’ll get a clear view of your training in real-time.\
+• Set Goals - Have a race, weight, or pace in mind? Set a goal and our app will help you.\
+• Follow a Plan - Every person should make a plan for the next day. So make a plan and follow the plan\
+• Stay Motivated
+• See Progress - This whole running thing works. You’ll see the sweat and we’ll show you the numbers to prove it!\
 
--> MVVM Architecture
--> Navigation Components
--> Room Database with Coroutines
--> Dependency Injection with Dagger-Hilt
+TOP FEATURES\
+• Sorting runs - Sort runs according to time avg speed, Calotries burned, etc.\
+• Routes - Save, discover, and build new routes with GPS.\
+• Stopwatch Mode - Easily add indoor cardio (treadmill, cycling) and gym workouts to keep a full exercise log all in one place.\
+• Statistics - see your lifetime runs, Calories Burned, Total distance,Total time\
+• Live Location Tracking - Whether it’s a training day or race day, See your live location\
+• Progress Insights - See how your runs stack up to each other and get a full view of your fitness journey.
 
-This app has Single Activity Architecture.Which means it has only on activity which contains five fragments :-
--> SetupFragment
--> RunFragment
--> StatisticsFragment
--> SettingFragment
--> TrackFragment
-
-
-## Getting Started
-
-https://play.google.com/store/apps/details?id=bawv.app.runtracker
 
 ## Screenshots
 
-<table>
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
   
-  <tr>
-   <td><img src="https://play-lh.googleusercontent.com/G5JhoIdgMrmwcwl-lQgz1uRXJ_DE3bsQtohzSgka6YSI4WFxAsXCzINnRpUoLJAWlKI=w720-h310-rw" width=270 height=480></td>
-  <td><img src="https://play-lh.googleusercontent.com/mtQP7IAHLGi11nQvgxI8ieID5ab8v8KfG_moAPj4i8YEOZwOnuWxOiKclLeR_fj2z3E=w720-h310-rw" width=270 height=480></td>
-   <td><img src="https://play-lh.googleusercontent.com/GIpzXOcyrGSgJekwuqvHXNkyfI2RPAD0gLuLGN3UuxqQRNpYdtNIO3vhk2AoFnv3jCM=w720-h310-rw" width=270 height=480></td>
-   <td><img src="https://play-lh.googleusercontent.com/E5JyD0nHWjeWos9DDST_-kUwZdYr8ZPlm4RBhJs5KjH7hL0uurfP2yQihK1u8lPrvA=w720-h310-rw" width=270 height=480></td>
-    <td><img src="https://play-lh.googleusercontent.com/Bt46x7StNysceAsh2SEiBlQlLFQSdv5F_P6LQrkv4r7eOVT-KjR2OsRK8plrPrtMQPU=w720-h310-rw" width=270 height=480></td>
-  
-  
-  
-  </tr>
- </table>
-
-
-
-
-
-
-
-
-
-
-
-## Built With
-* [MVVM Architecture] 
-
-* [Room DB](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-4-saving-user-data/lesson-10-storing-data-with-room/10-1-c-room-livedata-viewmodel/10-1-c-room-livedata-viewmodel.html) - To save news article
-
-* [Coroutines]
-
-* [Background Location Service]
-
-* [Glide](https://github.com/bumptech/glide) - Image Loading
-
-* [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android)- Dependency Injection
-
-
-
-
-
-
-
-
