@@ -53,6 +53,20 @@ https://www.youtube.com/watch?v=I2N8kYUmbLc
 Download from play store
 
 https://play.google.com/store/apps/details?id=bawv.app.runtracker
+
+## Build with
+
+**Room Database with coroutines** To store a runs
+
+**Navigation Components** 
+
+**Android Location Services** To track user's location permission 
+
+**Dagger-Hilt** for Dependency injection 
+
+
+
+
 ## Support
 
 For support, email raivikash174@gmail.com.
